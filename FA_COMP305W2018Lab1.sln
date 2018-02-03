@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FA_COMP305W2018Lab1", "FA_COMP305W2018Lab1.csproj", "{443E6D9B-0037-6B1D-B323-41A2B03B4BB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{443E6D9B-0037-6B1D-B323-41A2B03B4BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443E6D9B-0037-6B1D-B323-41A2B03B4BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443E6D9B-0037-6B1D-B323-41A2B03B4BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443E6D9B-0037-6B1D-B323-41A2B03B4BB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
